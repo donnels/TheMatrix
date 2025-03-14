@@ -3,6 +3,8 @@
 
 A useful tool to get from list of segments to adjaceny matrix to graph.
 
+* link:https://donnels.github.io/TheMatrix/[^]
+
 == html ui
 .html
 ----
