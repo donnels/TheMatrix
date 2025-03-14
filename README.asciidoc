@@ -6,7 +6,7 @@ A useful tool to get from list of segments to adjaceny matrix to graph.
 == html ui
 .html
 ----
-include::test.html[]
+include::docs/index.html[]
 ----
 
 === example output
